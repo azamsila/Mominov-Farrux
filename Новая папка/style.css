@@ -1,0 +1,82 @@
+.box{
+    background-color: yellow;
+    text-align: center;
+}
+.text{
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid red;
+}
+.boy{
+    color: red;
+}
+.text1{
+    color: green;
+}
+.text2{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+.img{
+    text-align: center;
+    width: 500px;
+    height: 300px;
+}
+.img2{
+    text-align: center;
+    width: 500px;
+    height: 300px;
+}
+.text5{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+.text10{
+    color: green;
+}
+.text100{
+    color:  green;
+}
+.book{
+    background-color: blue;
+    width: 300px;
+}
+.text20{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+.arslon{
+    background-color: green;
+    color: aliceblue;
+}
+.bilol{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+.b1lol{
+    background-color: red;
+    color: aliceblue;
+}
+.fil{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.sunnat{
+    background-color: red;
+    color: aliceblue;
+}
+.b1l{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 1500px;
+}
